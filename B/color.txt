@@ -1,0 +1,7 @@
+Seafoam Green
+#B2D2A4
+Lime Green
+#76B947
+Charcoal	#36454F
+Jet Black	#343434
+12 /*--bg-color: #343434;*/
