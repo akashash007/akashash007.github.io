@@ -489,13 +489,13 @@ header.sticky{
     }
 }
 
-@media (max-width: 840px){
+@media screen and (max-width: 990px){
     #menu-icon{
         display: block;
     }
     .navlist{
         position: absolute;
-        top: 100%;
+        top: -140%;
         right: 0;
         left: 0;
         display: flex;
@@ -505,3 +505,10 @@ header.sticky{
         transition: all .45s ease;
     }
 }
+
+
+.bg-white{
+    padding: 10px 190px;
+    background-color: var(--bg-color);
+}
+
